@@ -1,0 +1,13 @@
+export const SESSION_LOADED = 'SESSION_LOADED';
+export const SESSION_LOADING = 'SESSION_LOADING';
+export const REDIRECT_TO = 'REDIRECT_TO';
+export const ROOM_LOAD = 'room.load';
+export const ROOM_CREATE = 'room.create';
+export const ROOM_SEARCH = 'room.search';
+export const FRIEND_REQUEST = 'friend.request';
+export const FRIEND_ACCEPT = 'friend.accept';
+export const MEMBERS_ADD = 'members.add';
+export const ROOM_LOADING = 'room.loading';
+export const ROOM_LOADED = 'room.loaded';
+export const MESSAGE_LOAD = 'message.load';
+export const MESSAGE_UNLOAD = 'message.unload';
